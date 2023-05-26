@@ -26,9 +26,12 @@ website: |-
           <a href="policies/" class="tile">
             <img src="https://boxboat.com/2021/12/06/secure-supply-chains-kyverno/featured.png" alt="Kyverno Policies">
           </a>
-          <a href="my-service/" class="tile">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" alt="My Service">
+          <a href="elasticsearch/" class="tile" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/800px-Elasticsearch_logo.svg.png" alt="Elasticsearch">
           </a>
+          <a href="kibana/" class="tile" target="_blank">
+              <img src="https://seeklogo.com/images/K/kibana-logo-3CB40921E7-seeklogo.com.png" alt="Kibana">
+          </a>          
       </div>
   </div>
   </body>
