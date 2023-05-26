@@ -26,10 +26,10 @@ website: |-
           <a href="policies/" class="tile">
             <img src="https://boxboat.com/2021/12/06/secure-supply-chains-kyverno/featured.png" alt="Kyverno Policies">
           </a>
-          <a href="elasticsearch/" class="tile" target="_blank">
+          <a href="elasticsearch/" class="tile">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/800px-Elasticsearch_logo.svg.png" alt="Elasticsearch">
           </a>
-          <a href="kibana/" class="tile" target="_blank">
+          <a href="kibana/" class="tile">
               <img src="https://seeklogo.com/images/K/kibana-logo-3CB40921E7-seeklogo.com.png" alt="Kibana">
           </a>          
       </div>
