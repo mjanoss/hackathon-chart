@@ -32,7 +32,7 @@ charts:
     # Overrides default Helm Parameters
     parameters:
       - name: "traefik.deployment.replicas"
-        value: "1"
+        value: "2"
       - name: "traefik.service.annotations.kubernetes\\.io\\/elb\\.id"
         value: "{{.Values.projectValues.traefikElbId}}"
 
